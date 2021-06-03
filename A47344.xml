@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A tripartite remonstrance also An united profession of faithfulness concerning religion and the conscionable subjection to the supreme of the nations / written by William Kaye, minister at Stokosley ...</title>
+            <author>Kaye, William.</author>
+         </titleStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47344</idno><idno type="EEBO-CITATION">11217607</idno>
+  <idno type="VID">46868</idno>
+  <idno type="EEBO-PROQUEST">2240874022</idno>
+  
+            <idno type="STC">Wing K42</idno>
+            <idno type="STC">ESTC R29889</idno>
+            <idno type="OCLC">11217607</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47344)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46868)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1444:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A tripartite remonstrance also An united profession of faithfulness concerning religion and the conscionable subjection to the supreme of the nations / written by William Kaye, minister at Stokosley ...</title>
+                  <author>Kaye, William.</author>
+               </titleStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London by J.C. for John Place ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"I. That the supreme may establish church-government jure divino.  II. That that the title of king may conscionably be owned as the Parliament votes shall be established.  III. That the deliverance from all the cursed plots is the seal of His Highness approbation in his place and calling to the government of these nations."</note>
+                  <note>Imperfect: "An united profession" lacking (all after p. 32). Best copy available for photographing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  Great Britain.</term>
+               <term type="topical_term">Divine right of kings.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46868:1"/>
+            <p>A Tripartite REMONSTRANCE:</p>
+            <p>I. That the Supreme may establish Church-Govern<g ref="char:EOLhyphen"/>ment, <hi>Jure Divino.</hi>
+            </p>
+            <p>II. That the Title of King may conscionably be own<g ref="char:EOLhyphen"/>ed, as the Parliament Votes shall be esta<g ref="char:EOLhyphen"/>blished.</p>
+            <p>III. That the Deliverance from all the oursed Plots, is the Seal of His Highness Approbation in His Place and Calling to the Government of these Nations.</p>
+            <p>ALSO An united Profession of Faithfulness Concerning RELIGION, And the Conscionable Subjection <hi>To the Supreme of the</hi> NATIONS.</p>
+            <p>Written by <hi>William Kaye,</hi> Minister at <hi>Stokosley;</hi> for the information of all men, but especially, presented to the consideration of the honourable and valiant Offi<g ref="char:EOLhyphen"/>cers, that have prospered under the command of His Highness.</p>
+            <q>
+               <p>By me kings reign,—by the princes rule, and nobles, even all the judges of the earth,</p>
+               <bibl>
+                  <hi>Prov. 8.15, 16.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>And kings shall be thy nursing fathers,</p>
+               <bibl>
+                  <hi>Isa. 44.17.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Oh pray for the peace of Jerusalem,</p>
+               <bibl>
+                  <hi>Psal. 122.6.</hi>
+               </bibl>
+            </q>
+            <p>Printed at <hi>London,</hi> by <hi>J. C.</hi> for <hi>John Place,</hi> neer Furnivals Inne-Gate, in Holborn. 1657.</p>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:46868:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:46868:3"/>
+            <pb facs="tcp:46868:3"/>
+            <head>
+               <hi>To the READER</hi> That is prejudicial, through zeal, ignorance or disaffected to the present Government.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O answer such as are ready to say, Where is your call for what you do? or what need you trouble your self in this matter?</p>
+            <p>If the Doctrine, <hi>de vera obedientia,</hi> were not so little known, as it is practiced, we need not, with old Father <hi>Latimer,</hi> have occasion to complain, That there are many that for<g ref="char:EOLhyphen"/>sake Popery, and yet would be unwilling to be subject to the Ordinance of God in Government.</p>
+            <p>Of such Spirits we may say, That they would rather fish in troubled Waters, then cast their Hooks to catch a Fish to pay the Tribute of Subjection; whereby, some of the Honest and Godly, not fully knowing the Minde of God, are often mis-led by example: so that there is cause enough, and too much, to exercise our talents.</p>
+            <p>And that in this, there is no self-willedness, heady, or high-mindedness; but on the contrary, That it is every Ministers duty to do this, or more, as drawn out, or qua<g ref="char:EOLhyphen"/>lified.</p>
+            <p>First, The Church that came out of Antichrist, faith<g ref="char:EOLhyphen"/>ful to their light; witnessed from their Martyrdom, in their Canon Ecclesiastical, concerning the removing of the Popes Supremacy; whereby, in the Church, he exalts him<g ref="char:EOLhyphen"/>self above all that is called God, or is worshipped; which
+<pb facs="tcp:46868:4"/>is the Magistrate: puts this so far out of doubt, that as the burthen by them is imposed on the Ministery.</p>
+            <p>Again, That I may rather hazard, to put new Wine into old Bottles, then deny the often visitations of God, for about these twenty years last past. If thou question then my Call; I must humbly in the Name of God, assure thee, That it was extraordinary; which though to name; is to lie under aspersions of dreams and delusions; yet in that God hath ever hitherto witnessed by making the things to come to pass; and hath also mercifully justified me, when Satan in his instruments hath plotted and re<g ref="char:EOLhyphen"/>proached.</p>
+            <p>Therefore, in this I am confident, That my hope shall not make me ashamed; which before thou seest the event, be not precipitated by rash judgement: for to see the poor that mourns in sackcloth, the innocent any way oppressed, my native Country dishonored, the blinde groaping for the way, or that any honest man should live erroniously, hath hitherto occasioned the yearning of the bowels.</p>
+            <p>Therefore, keep an ear for me, and cast an eye on what is remonstrated, to perswade thee and all men to be peace<g ref="char:EOLhyphen"/>able and well-affected; as thou seest, and hereby mayst see Gods presence with his Highness and Government. Herein I have got my end: thou shalt have the Peace, and God the Glory; which is much desired of,</p>
+            <closer>
+               <signed>The Church and Nations<lb/> devoted Friend,<lb/>
+                  <hi>William Kaye.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:46868:4"/>
+            <head>The First Remonstrance, <hi>Concerning The Divine Right of the Magistrate in Causes Ecclesiastical,</hi> &amp;c.</head>
+            <argument>
+               <p>All Higher Powers, set up by the Right-hand of God, have Divine Right, as nursing Fathers, to take care, That the Ministers gather and govern the Church and Churches, which are within the Magistrates Dominions: in submit<g ref="char:EOLhyphen"/>ting unto which, Gods merciful Presence is to be expected; as on the contrary, the Ʋsurpation thereof by the Pope or Antichrist, and neglect thereof in others, hath proved a great judgement to God's own People, whereby Errors, Profanness, and Schisme, hath been occasioned.</p>
+            </argument>
+            <head type="sub">This Categorical Proposition di<g ref="char:EOLhyphen"/>vided into these Doctrinal Conclu<g ref="char:EOLhyphen"/>sions, may usefully be applied by all men.</head>
+            <list>
+               <item>1.<seg rend="decorInit">T</seg>Hat it is God, and not man, that exalteth the supreme Magistrate.</item>
+               <item>2 That such Higher Powers have Di<g ref="char:EOLhyphen"/>vine Right to rule in Church and State.</item>
+               <item>3. That the Magistrates Rule, consists not in doing the Office of a Minister, but to order them, judge, and encourage them, in gathering and governing of the Church and Churches.</item>
+               <pb n="2" facs="tcp:46868:5"/>
+               <item> 4. God will be in a most special way, mercifully present with us, as the Standard of his Government shall be so ad<g ref="char:EOLhyphen"/>vanced amongst us.</item>
+               <item>5. It is the practice of Antichrist, <hi>&amp;c.</hi> to usurp the Power of the Magistrate; and as not to exercise Church-Government, hath proved a great judgement, whereby Errors, Profaness, and Schisme, is occasioned amongst us.</item>
+            </list>
+            <p n="1">1. <hi>That it is God, and not Man, that exa<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teth the su<g ref="char:EOLhyphen"/>preme Magistrate:</hi> This is a Truth that every Prophet hath preached. All the Scriptures testifie, All Higher Powers are of God: <hi>The Powers that are, are ordained of God;</hi> especially, when, by his triumphant Right-hand of Power, the Lord of Hosts sets up a supreme Magistrate, which upon that account is commonly called a Conque<g ref="char:EOLhyphen"/>ror; either to rule in Judgement, or to promote Refor<g ref="char:EOLhyphen"/>mation, in subduing the Powers that support Antichrist: unto which God requireth so much our faithful subjection, that, to be here found resisting, every one that taketh the Sword, shall perish by the Sword: for it is as much, as when the trial is past and adjudged, for a private man to fight against the Judge and Jury, who, though they may possibly be partial, and unequal, <hi>Yet my ways</hi> (saith God) <hi>are not as your ways; my thoughts, as your thoughts.</hi>
+            </p>
+            <p>That the Lord then preserveth this Prerogative to Him<g ref="char:EOLhyphen"/>self, To set One to rule over thee, as he pleaseth; should not displease thee: for if thou shouldst say, We will not have this Man to raign over us; this is to curse him in thy heart, from the abundance whereof, thy mouth thus speaketh: this is to murmur against <hi>Moses</hi> in the Camp, and <hi>Aaron</hi> the Saint of the Lord: this is to exalt thy self against him, whom the Lord exalteth: this is no more in a word, then to fight against God by thy resisting; and how likely thou shalt prevail, let all men that know Scriptures or Experi<g ref="char:EOLhyphen"/>ence herein, be judges.</p>
+            <p>To proceed then to the next part: the main matter which I desire (for the Saints sake especially) to speak of, is,</p>
+            <p n="2">2. <hi>That Higher Powers, or the supreme Magistrate, hath
+<pb n="3" facs="tcp:46868:5"/>Divine Right to rule in Church or Churches:</hi> That this so great and necessary Truth may be clearly demonstrated, it remains, That by the Scriptures, and the Testimony of the Fathers, or Cloud of Witnesses, it be fully proved.</p>
+            <p n="1">1. Scripture-proof, for the Magistrates supre<g ref="char:EOLhyphen"/>macy in Church or Churches.</p>
+            <p>Not to speak of the Authority of <hi>Moses,</hi> whereby God gave him Power to order the Priests, in and about the Sacrifices of the Altar; so, as to place or displace them. All succeeding Kings, though not so immediately called, had the like Authority that God gave unto <hi>Moses:</hi>
+               <note place="margin">1 King. 2.25.</note> where<g ref="char:EOLhyphen"/>by <hi>Solomon</hi> thrust out <hi>Abiathar</hi> from being Priest, and <hi>Za<g ref="char:EOLhyphen"/>doc</hi> the Priest did he put in the room of <hi>Abiathar.</hi>
+            </p>
+            <p>
+               <hi>And king Ahaz commanded Uriah the priest, saying,</hi>
+               <note place="margin">2 Kin. 16.15, 16.</note>
+               <hi>Upon the great altar burn the morning burnt-offering: Thus did Uriah the priest, according to all that king Ahaz commanded.</hi>
+            </p>
+            <p>
+               <hi>And it came to pass in the eighteenth yeer of king Josiah,</hi>
+               <note place="margin">2 Kin. 22.3.</note>
+               <hi>that he sent Saphan the scribe to the house of the Lord, saying, Go up to Hilkiah the high-priest, that he may sum the silver which was brought into the house of the Lord.</hi>
+            </p>
+            <p>
+               <hi>And the king commanded Hilkiah the high-priest,</hi>
+               <note place="margin">2 King. 23.4, 5.</note>
+               <hi>and the priests of the second order, to bring forth all the vessels which were made for Baal,</hi> &amp;c.</p>
+            <p>
+               <hi>And the king put down the idolatrous preists.</hi>—</p>
+            <p>
+               <hi>Moreover, David, &amp; the captains of the host,</hi>
+               <note place="margin">1 Chr. 25.1, 6.</note>
+               <hi>separated to the service of the sons of Asaph, and of Heman, and of Jeduthun; who should prophesie with harps, with psalteries, and with cym<g ref="char:EOLhyphen"/>bals: and which did sing as the king ordered them.</hi>
+            </p>
+            <p>
+               <hi>And the Lord was with Jehosaphat,</hi>
+               <note place="margin">2 Chr. 17.3, 4.</note>
+               <hi>because he walked in the first ways of his father David, and sought not unto Balim, but sought unto the Lord God of his Fathers, and walked in his com<g ref="char:EOLhyphen"/>mandments, and not after the doings of Israel: therefore the Lord established the kingdom in his hand.</hi>
+            </p>
+            <p>
+               <hi>And his heart was lift up in the ways of the Lord.</hi>
+            </p>
+            <p>
+               <hi>Also, in the third yeer of his reign, he sent to his princes, even to Benhail, and to Obadiah, and to Zachariah,</hi> &amp;c. <hi>to teach in the cities of Judah.</hi>
+            </p>
+            <p>
+               <hi>And with them, he sent Levites,—and with them Eli<g ref="char:EOLhyphen"/>shima, and Jehoram, priests.</hi>
+            </p>
+            <pb n="4" facs="tcp:46868:6"/>
+            <p>
+               <hi>And they taught in Judah, and had the book of the law of the Lord with them, and went about all the cities of Judah, and taught the people.</hi>
+            </p>
+            <p>
+               <hi>And the sear of the Lord fell upon all the kingdoms of the lands that were round about Judah; so that they made no war against Jehosaphat.</hi>
+               <note place="margin">2 Chr. 19.8</note>
+            </p>
+            <p>
+               <hi>Moreover, in Jerusalem did Jehosaphat set of the Levites and of the priests, and of the chief of the fathers in Israel, for the judgements of God, and for controversies.</hi>
+            </p>
+            <p>
+               <hi>And he charged them, saying, Thus shall ye do in the fear of tho Lord faithfully, and in a perfect heart.</hi>
+            </p>
+            <p>
+               <hi>And what cause soever shall come to you of your brethren, that dwell in their cities, between blood and blood, law and commandment, statute and judgement, ye shall even warn them that they trespass not against the Lord, and so wrath come upon you and upon your brethren. This do, and ye shall not trespass.</hi>
+            </p>
+            <p>
+               <hi>And behold, Amaziah, the chief priest is over you all in matters of the Lord, also the Levites shall be officers before you, Deal couragiously, and the Lord be with the good.</hi>
+            </p>
+            <p>And as for good <hi>Hezekiah,</hi>
+               <note place="margin">2 Chro. 29.30.</note> he took counsel to promote the Church Government, as it is at large declared, 2 <hi>Chro.</hi> 29.30. And so <hi>Nehemiah,</hi> and all godly Magistrates have ever endeavored.</p>
+            <p>And now lest all should be overlooked as legal, and ab<g ref="char:EOLhyphen"/>rogated; this I say in the Name of God,</p>
+            <p>
+               <hi>That the Government of the Church was no more Ceremonial or liable to be abrogated, then God can cease to be the God of order, or hath changed the moral law, which is still perpetual, a branch whereof is the Church Government.</hi>
+            </p>
+            <p>And therefore in that Christ said, <hi>Dic Ecclesiae, Tell it to the Church:</hi> he spake this, when the Church was then go<g ref="char:EOLhyphen"/>verned, with Application to all succession of time, that it should be governed: for though it's true, that the Apo<g ref="char:EOLhyphen"/>stles had not Magistrates; yet (as in another piece I have shewed) the Apostles declared the Magistrates <hi>jus ad rem,</hi> as that they were to judge concerning sound and unsound Doctrine, and therefore they prophesied, That the man of sin (which is fulfilled in the Pope) should usurp the
+<pb n="5" facs="tcp:46868:6"/>Power of the Magistrate. However, the Apostles did observe the order of ruling, as the Magistrates did<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and so Church-Order or Government was ever the same from the beginning; as in the High-Priests, and Priests of the second order; so the same in <hi>Peter</hi> and <hi>Paul, Timothy</hi> and <hi>Titus,</hi> and Pastors in particular Churches, is paraleld.</p>
+            <p>
+               <note place="margin">The ancient Fathers ac<g ref="char:EOLhyphen"/>knowledg'd the Magi<g ref="char:EOLhyphen"/>strate to rule in Church-Governm.</note>
+               <hi>The truth then is most cleer and absolute: and that the ho<g ref="char:EOLhyphen"/>ly Fathers (which in the next place is now to be proved) were of the same judgement have patience, and you shall hear them speak to justifie the Magistrate to rule in Church-Govern<g ref="char:EOLhyphen"/>ment; and therefore thus said:</hi>
+            </p>
+            <p>Tertullian: <hi>Colimus ergo &amp; Imperatorem sic, quomodo, &amp; which licet, &amp; expedit; ut hominom a Deo secundum:</hi> We ho<g ref="char:EOLhyphen"/>nor and reverence the Emperor, in such respect as is law<g ref="char:EOLhyphen"/>ful for us; that is to say, as a Man next and second unto God.</p>
+            <p>
+               <hi>Ambrose,</hi> that lived about four hundred years after Christ, speaking of himself, and other Bishops,<note place="margin">Ambros. <hi>in concil</hi> Aqu.</note> then at the Counsel of <hi>Aquilea,</hi> saith thus: <hi>Nos convenimus A<g ref="char:EOLhyphen"/>quileam juxta praeceptum Imperatoris:</hi> We have assembled at the Counsel of <hi>Aquilea,</hi> according to the Command of the Emperor.</p>
+            <p>And so <hi>Athanasius</hi> saith: <hi>Ab Imperatore, praefecti{que} Lit<g ref="char:EOLhyphen"/>terae sequentes in omnem partemmissae sunt:</hi>
+               <note place="margin">Anatha. <hi>de Synod</hi> Arm.</note> Letters and Writs following, were sent to all places, by the Emperor and his Lieutenants: meaning, for to assemble them to meet at the Counsel.</p>
+            <p>As for <hi>Augustine,</hi> he saith:<note place="margin">Aug. <hi>Ep.</hi> 16. <hi>ad</hi> Donat.</note>
+               <hi>In hoc Reges Deo serviunt sicuteis divinitus praecipitur, in quantum sunt Reges, si in suo Regno bonajubeant, mala prohibeant, non solum quae pertinent ad humanam societatem, verùm etiam quae ad Divinam Re<g ref="char:EOLhyphen"/>ligionem:</hi> Herein Kings serve God, as it is commanded them from above in that they be Kings, if within their Kingdom they command good things and forbid evil, not only in things that respect fellowship or civil order, but in things pertaining to God's Religion.</p>
+            <p>
+               <hi>Chrysostom,</hi> speaking of the Soveraignty of the Emperor,<note place="margin">Chryso. <hi>ad pop.</hi> Anti. <hi>Hom.</hi> 2.</note> said: <hi>Laesus est, qui non habet parem super terram,</hi> &amp;c. We
+<pb n="6" facs="tcp:46868:7"/>have offended him that hath no peere, <hi>&amp;c.</hi>
+            </p>
+            <p>From which words, holy and learned Bishop <hi>Jewel,</hi> makes this Inference: <hi>If he were the Head of all men, then not onely of Bishops and Cardinals, but of the Pope himself.</hi>
+            </p>
+            <p>
+               <note place="margin">Hierom <hi>in Epitaph.</hi> Paulae.</note>
+               <hi>Hierom,</hi> he saith: <hi>Orientis at{que} Occidentis Episcopis ob quasdam Ecclesiasticas dissentiones Romanae Imperiales Litterae contraxerunt:</hi> To stay certain Ecclesiastical Dissentions, the Emperor's Writs caused the Bishops as well of the East as of the West to meet together.</p>
+            <p>Which said <hi>Hierom,</hi> as the said <hi>Jewel</hi> in his <hi>Apology,</hi> Chap. 12. Div. 3. saith, That <hi>when</hi> Ruffinus <hi>the Heretick had alledged for his authority a Counsel, Tell me</hi> (quoth he) <hi>what Emperor that was, that commanded that Counsel to be called.</hi>
+            </p>
+            <p>The cloud then of Witnesses so apparently ha<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing fol<g ref="char:EOLhyphen"/>lowed the steps and leadings of the Spirit from the begin<g ref="char:EOLhyphen"/>ning, whereby Magistrates do rule &amp; have ruled in Causes Ecclesiastical, though now so obscured. Let us then pro<g ref="char:EOLhyphen"/>ceed to the third part by which we are thus informed.</p>
+            <p n="3">3. <hi>That the Magistrates rule consisteth not in doing the Office of a Minister, but to order them, judge, and encourage them, in gathering and governing of the Church and Churches.</hi>
+            </p>
+            <p>Now to be large, were to run into the folly that's con<g ref="char:EOLhyphen"/>demned in <hi>Formio</hi> (who though a yong Schollar) presumed to teach the great Warriour <hi>Hannibal,</hi> concerning the Camp-martial: for as an Admiral, though he cannot steer or guide a Ship, yet nevertheless, is the Admiral; because he hath authority to command them whither they shall said too, and hath power to place and displace them. Even so the King or Supreme Power, though he shall not preach, <hi>&amp;c.</hi> yet is he the chief Ruler of the Church, because he hath authority to punish Ecclesiastical persons, <hi>&amp;c.</hi> or to reward and encourage them, and to hear all Appeals as to justice appeartaineth.</p>
+            <p>The divine Right, and the manner how it is conferred on the King or Supreme Power, being clearly declared; the parts then that remain, holding out or pointing at God's Mercy, or blessed Presence with us, if we observe it, and that on the contrary, his judgements in the errors,
+<pb n="7" facs="tcp:46868:7"/>profanness, and Schism, as Church-Government shall be waved, being so much experienced. In these, the truth is so apparent, that in this we need not light a Candle to make the light of the Sun to be more clearly appearing.</p>
+            <p>To proceed then, we shall produce the Reasons why Church-Government should be established; and yet,<note place="margin">Reasons for establishing of Church-Govern<g ref="char:EOLhyphen"/>ment.</note> that there should not be any such rigid Uniformity (as the case is with God's people) to shut out any gathered under bap<g ref="char:EOLhyphen"/>tism, as they have attained, or compel those of no Church, to Church-conformity, if they hear as by Law is required: as Charity bids thy Brother live besides thee, so Faith and Order bids thee live in Union and Communion with thy Brethren, and to acknowledge the general oversight.</p>
+            <p n="1">1. Because it is a Gospel-Promise, unto which is annexed a great Priviledge, That God will restore Magistrates as at the first, and that Kings shall be nursing Fathers to the Church; which without Government, is as a Ship without any Pilate to steer it: but as governed, it is promised, that <hi>the gates of hell shall not prevail against it.</hi>
+            </p>
+            <p n="2">2. This is the duty that the faithful Prophets were commanded to re-minde the people of, that they might turn to God in the way of Reformation: for thus saith the Lord, <hi>Thou son of man, shew the House to the house of Israel,</hi>
+               <note place="margin">Ezek. 43.20.</note>
+               <hi>that they may be ashamed of all that they haue done, shew them the form of the house, and the fashion thereof, and the goings out thereof, and the coming in thereof, and the forms thereof, and all the ordinances thereof, and all the laws thereof, and write it in their sight, that they may keep the whole form thereof and the ordinances thereof, and do them.</hi>
+            </p>
+            <p n="3">3. By the establishing of Church-Government: God's Attribute, that is to say, <hi>God is the God of order,</hi> whereby he ruleth in his spiritual Kingdom, by that power and au<g ref="char:EOLhyphen"/>thority that he hath established: for though it is generally conceived, that the Ministers may gather and govern Churches without the Magistrate (as the Pope hath usurp<g ref="char:EOLhyphen"/>ed, yet in case the Magistrate be restored, and doth claim his divine Right; this is (for ought I can perceive) <hi>to exalt our selves</hi> (as <hi>Paul</hi> prophesies of Antichrist) <hi>above all
+<pb n="8" facs="tcp:46868:8"/>that is called God, or is worshipped:</hi> for if the law is to judge of unsound Doctrine, then is the Magistrate, as <hi>Moses</hi> was, a Judge in Church-matters, as all suceeding Magistrates have been, for though it's true, the Apostles had no Ma<g ref="char:EOLhyphen"/>gistrates, yet it is as true, that they did not wave them, and that God foreseeing, that in their time they should be re<g ref="char:EOLhyphen"/>stored, he, to supply that want, gave them as Master-buil<g ref="char:EOLhyphen"/>ders a double portion of the Spirit, both of Magistrates and Ministers: and yet their Imitation is not warrantable, but where the Supreme did not claim their right, or are not called to promote the profession of the Gospel. And therefore, as the Wife, though she could rule without the Husband, must not usurp authority over him: so must not Ministers, though they could rule, usurp the power of the Magistrate, as was attempted by <hi>Corah, Dathan,</hi> and <hi>Abi<g ref="char:EOLhyphen"/>ram,</hi> famous men of renown, able enough, wanting no<g ref="char:EOLhyphen"/>thing but Commission from Heaven, or divine Right, whereby they became infamous, or most miserably perish<g ref="char:EOLhyphen"/>ed in their gainsaying, as speaking against God's Ordi<g ref="char:EOLhyphen"/>nance, that had decreed the contrary. For it must either be proved, That God <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id not put the sole rule or authority in the Magistrate, which cannot be proved, or else the Mi<g ref="char:EOLhyphen"/>nisters without the Magistrate (if claiming his due) have no authority in Church-Government, that is, to excom<g ref="char:EOLhyphen"/>municate, or to make Heathen men, and Publicans.</p>
+            <p n="4">4. It's God's special Will and Pleasure: God will have it thus: if we expect his blessings, we must go in God's way; he will lead his people by the hand of <hi>Moses</hi> and <hi>Aaron,</hi> wherefore all Saints are exhorted to obey those that have the over-sight over them in the Lord, and submit to them; for they watch for their souls as they that must give an account, as it is required of our Superiors to be as faithful over God's house as <hi>Moses,</hi> as God hath intrusted them with a talent to do him service.</p>
+            <p n="5">5. It's the price of the Blood of the Saints that ingaged against the Hierarchy, that cumbred the ground with Com<g ref="char:EOLhyphen"/>missaries, Advocates, and Procters; instead of Magistrates, Pastors, and Elders, <hi>&amp;c.</hi> So that we ought not, as the
+<pb n="9" facs="tcp:46868:8"/>Prelates did, to take all Power from every particular Church; but in a true Scripture-Episcopacy, they must exercise their power, as <hi>Paul</hi> took care that all Churches might be established: not to take their rule from them, but to see them rule in righteousness.</p>
+            <p n="6">6. God ever prospered such Magistrates, as <hi>Jehosaphat, Hezekiah,</hi> Q. <hi>Eliz.</hi> &amp;c. that did rule in the Church accord<g ref="char:EOLhyphen"/>ing to the light they had attained: and rejected on the contrary, such as gave away their power to Antichrist, or that suffered Idolatry where God's Name was professed, or Prelatical Laodicism, or Persecution, as God's hand-wri<g ref="char:EOLhyphen"/>ting was upon our walls, or as might be experienced a<g ref="char:EOLhyphen"/>mong us.</p>
+            <p n="7">7. It may be, or ought to be the conscience of the Ma<g ref="char:EOLhyphen"/>gistrate, without persecuting the tender conscience; by which men may see to be made conformable to set up the standard of the Lord's Government, whereby as nursing Fathers of the Church, the return of the prayers of the Saints, to live a godly and peaceable life, may in them be fulfilled, and that any hand or tongue should move any trouble in opposition to the Magistrate, to enjoy the Li<g ref="char:EOLhyphen"/>berty of his Conscience in establishing Church-Govern<g ref="char:EOLhyphen"/>ment, as God hath ordained Magistrates, hath not the least shadow of Conscience or Reason.</p>
+            <p n="8">8. This is a Healing-leaf for the Nation, if God shall make his Election to be willing, in the day of his power, to be governed. This is to strengthen the things that are ready to fall, this is to repair the breaches, this is the bles<g ref="char:EOLhyphen"/>sed way to lay the foundation of peace, in offering up bo<g ref="char:EOLhyphen"/>dies and souls to serve the Lord, according to the light of conscience, as we have attained. <hi>A kingdom divided cannot stand,</hi> nor did God ever pluck up the Hedge of his Vine<g ref="char:EOLhyphen"/>yard, whereby Foxes eat up the Vines: but God also pul<g ref="char:EOLhyphen"/>led down the walls of the Cities where his Name hath been proclaimed, and yet is blasphemed through contempt and want of Reformation. For though we may pretend what we please, or imagine it is but a thing of indiffe<g ref="char:EOLhyphen"/>rency; yet this is to call in question the wisdom, will, and
+<pb n="10" facs="tcp:46868:9"/>goodness of God, that in mercy hath thus ordained his people to be ordered and so united to serve him: for,</p>
+            <p>First, this is the Net, which if it be cast on the right-side of the Ship,<note place="margin">Reasons for the necessity of a Chu<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch-Governm. by the Ma<g ref="char:EOLhyphen"/>gistrates au<g ref="char:EOLhyphen"/>thourity.</note> may inclose those that are not gained to bring out of their worldy element of sinful security. Here's a way in which they shall not walk alone, but be directed therein by a blessed oversight: or, herein is the Lantern whereby the light is kept shining, that it cannot be blown out with the winde of contrary Doctrine. Here is the keys that open the door to the believing and penitent, and shut out the contrary minded. Here we may lie under the shadow of the Apple-Tree of the peace of Conscience, which no man can take from us:<note place="margin">Cant. 2.2.</note> in which, if we continue in all well-doing, the Angels shall ascend &amp;c. descend to visit us from on High, to pitch their Tents about us, whereby we shall be built as on a rock, that <hi>the gates of hell shall not prevail against it.</hi>
+            </p>
+            <p>Secondly, And if we look also at God, which above all is to be looked after. Here is the living Temple in which God is worshipped, his Kingdom in which he ruleth by his Law, his Table at which he feasteth his Saints. Here the Lord sets up his Standard upon his Holy Hill or Moun<g ref="char:EOLhyphen"/>tain of Righteousness to bear rule in the midst of his E<g ref="char:EOLhyphen"/>nemies.</p>
+            <p>And so much the Name of God is preserved amongst us, that hereby the foundation for his most glorious Attri<g ref="char:EOLhyphen"/>butes, whereby God is called, <hi>The God of order,</hi> is preserved amongst us, without which, Heaven and Earth and all that remains therein, would be brought to confusion, though in our orderly walking: as <hi>Israel</hi> hath his eye upon God, so God hath his eye upon <hi>Israel.</hi>
+            </p>
+            <p>
+               <note place="margin">The way how Church Governme. may be esta<g ref="char:EOLhyphen"/>blished.</note>And now, if it may be questioned how these things should be? or how shall we set up a Government without forcing the World into order, or putting out the light of some Saints, or persecuting of tender consciences? Not to minde then the cries in the Ship, but to minde more carefully to steer our course with respect to the Star in the East, that should guide us: to look then at the cloud
+<pb n="11" facs="tcp:46868:9"/>through which it shineth, or to follow the leadings of the Spirit, or do as the Saints have done upon the same occasion.</p>
+            <p>It were a mercy then, to see that done which <hi>Jehosaphat</hi> did, (for we have proved, that Church-Government is the same as from the beginning.)</p>
+            <p>
+               <hi>To send forth Ministers to teach in every City of Judah, and to gather such as are called.</hi>
+            </p>
+            <p>
+               <note place="margin">Brethren in grace, ought not, that own the rule to differ be<g ref="char:EOLhyphen"/>cause of the various in<g ref="char:EOLhyphen"/>terpretation or imitation of it in their submission, according to their consci<g ref="char:EOLhyphen"/>ence as they have at<g ref="char:EOLhyphen"/>tained.</note>
+               <hi>To set (as he did) chief Ministers and Fathers, (beside the Pastors in their particular over-sight) that they may have the general oversight over them, whereby all may walk worthy of their calling to keep such an unity of the Spirit in Truth and Holiness, that every Saint may own one another, and not uphold causless separation amongst brethren; for if we be children of one Father by regeneration, and so are one in the Head, we must not disown one another in the Body, which the Head acteth: for in this here is no conscience but contradiction, though there may be a difference in circumstantials, or one may excel another in qualification, yet th<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Union must be in respect to the Babes, or with the least we must communicate, as it is reason to condescend to the lowest capacities, as to read the Scriptures in our own Tongue, and not in Greek or Hebrew.</hi>
+            </p>
+            <p>
+               <note place="margin">A general counsel to ordain to u<g ref="char:EOLhyphen"/>nite the Sts. &amp; that truth may be de<g ref="char:EOLhyphen"/>monstrated.</note>Again, it were a mercy if we would not think to pro<g ref="char:EOLhyphen"/>sper without the means that God hath appointed for the reforming and union of his Church and Churches: I mean, if he would think of a general Assembly, at which all Pastors of gathered Churches might be present with o<g ref="char:EOLhyphen"/>ther Magistrates, Ministers, and select Brethren, to consider of Truth and Union, <hi>&amp;c.</hi> though with zealous <hi>Nehemiah</hi> we should hold a Weapon in the one hand, while we build the temple with another; not regarding <hi>Tobias</hi> and <hi>San<g ref="char:EOLhyphen"/>ballat,</hi> (but as they are witnesses of our call unto salvation) though they jeer us, or sit in the chair of the scornful; neither need we to fear the designs of <hi>Bigan</hi> and <hi>Teresh:</hi> for the fear of the Lord fell upon the Kingdoms of the Land,<note place="margin">2 Chr <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7.10.</note> so that they made no war against <hi>Jehosaphat,</hi> because he ingaged himself to promote Reformation.</p>
+            <p>And is it so then? as we shall really finde, if we fully
+<pb n="12" facs="tcp:46868:10"/>trust God in his cause of Profession. There is then no Policy like unto Piety: for though we be never so deep<g ref="char:EOLhyphen"/>ly ingaged, yet God will bring us off, if we desire to trust in him,<note place="margin">S. Walt. R. <hi>Hist. of. Wo<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> and promote his Glory: of which, the Heathen afford us a most rare example, in that, though the Enemy (finding them at Devotion) did ingage them in battel,<note place="margin">A rare ex<g ref="char:EOLhyphen"/>ample in the Heathens.</note> yet until they had finished their service and sacrifice, they made no resistance; but afterwards, rising up from their Devotion, they fell upon the Enemy, and totally routed them.</p>
+            <p>And shall we then slack our hand, to discharge our Du<g ref="char:EOLhyphen"/>ty, though an Enemy should rise up to beat us from it. God will arise, if we stand for his cause, and his Enemies shall be scattered: for thus the Spirit of the Lord spake in <hi>Azariah</hi> when he went to meet <hi>Asa,</hi> saying,</p>
+            <p>
+               <note place="margin">2 Chron. 15. 1, 2, 7.</note>
+               <hi>Hear me Asa, and all Judah, and Benjamin:</hi>
+            </p>
+            <p>
+               <hi>The Lord is with you, while you be with him: if you seek him, he will be found of you; but if you forsake him, he will forsake you.</hi>
+            </p>
+            <p>
+               <hi>Be strong then, and let not your hands be weak, and your work shall be rewarded.</hi>
+            </p>
+         </div>
+         <div n="2" type="part">
+            <pb n="13" facs="tcp:46868:10"/>
+            <head>The Second Remonstrance, <hi>Concerning The Qualifications, and Titles of Honor that may be given to the Supreme that Ruleth over us.</hi>
+            </head>
+            <argument>
+               <p>The Ecclesiastical Government, usurped by the Pope, limited by some, and waved by others; as the Magistrates <hi>Jus Divi<g ref="char:EOLhyphen"/>num,</hi> being already cleerly proved: it cannot then be less pertinent, then necessary, now when we are ingaged on the Stage of this controversie. To speak of the Qualifications: first, Whereby the Supreme may be inabled to rule: and, secondly, Of the Garment of Honor that such a Sacred Person should be invested with, that sits at the Stern of Go<g ref="char:EOLhyphen"/>vernment.</p>
+            </argument>
+            <head type="sub">To speak a word of Qualifications.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat none might envy the shining appea<g ref="char:EOLhyphen"/>rance thereof in their height, or disdain them in their ordinary capacity.</p>
+            <p>But, that the foundation of peace, in being at peace with God within our selves, so as herein to acquiesce, whether they be found to be ordinary or extraordinary, in that they are not our gifts, nor can be made our purchase, but are con<g ref="char:EOLhyphen"/>ferred
+<pb n="14" facs="tcp:46868:11"/>by God alone, as his special mercy unto his chosen Servants, that he pleaseth to exalt to rule over us.</p>
+            <p>That therefore the minde of God may herein be de<g ref="char:EOLhyphen"/>clared, this is a Truth so generally received, as that all men confess:</p>
+            <list>
+               <item>1. That it's necessary, That we look after Qualifica<g ref="char:EOLhyphen"/>tions, in that all men must needs conceive, is, that the to<g ref="char:EOLhyphen"/>tal deprivation thereof, excludes as much from <hi>Moses</hi> Chair, as from our Hereditary inheritance.</item>
+               <item>2. And yet, though it's the wisdom of God upon ex<g ref="char:EOLhyphen"/>traordinary overturnings, and original Government, to qualifie <hi>Moses</hi> who was a King, to be more then ordinarily Meeks as a Lamb,<note place="margin">Moses <hi>a King</hi> Deut. 33.4.</note> Terrible as a Lion, exceeding Wise, Zealous over his House, and Devout; and so Just indeed, as that the poorest Innocent might make his Appeal, and finde Justice: and so it pleased the Lord, to take of the Spirit of <hi>Moses,</hi> and communicate it to the Seventy, where<g ref="char:EOLhyphen"/>by they might be assistants to him in Government, when it grew insupportable.</item>
+            </list>
+            <p>Yet, that we should hence conclude, <hi>That all Govern<g ref="char:EOLhyphen"/>ment is in Grace, and that every one must be so absolutely qua<g ref="char:EOLhyphen"/>lified.</hi> This is to deny the succession of all, or of the most of Magistrates, and confound Times, and deny suf<g ref="char:EOLhyphen"/>ficient Gifts and Qualifications, as that he that hath but a Talent shall be judged as though he had none, because he hath not as many as was ever given to any man.</p>
+            <p>For though such Magistrates as <hi>Moses</hi> and <hi>Joshua,</hi> that are called to pluck up and plant a Nation, have ever been Men of Renown, for Victory and Valor, on whom the Spirit of God and of Glory resteth (as they are nursing Fathers to the Church) upon them, yet that of their Suc<g ref="char:EOLhyphen"/>cessors, for whom the house is built, and contrived, so much should not be expected or required: it being one thing for <hi>Moses</hi> and <hi>Joshua</hi> to sub due their Enemies, and to plant the people in peace in the Land of <hi>Canaan,</hi> and for another man for to govern in peace, or to lead in the way where there is no opposition.</p>
+            <p>And therefore, as to the Apostles the<note n="*" place="margin">Ephes. 2.</note> foundation was
+<pb n="15" facs="tcp:46868:11"/>ascribed, which could not be laid without Gifts of Tongues and Miracles: The work was extraordinary, yet in that their successors were but to preach, and speak the sense of their words, and that in their Mother-Tongue. Here ordinary Gifts are requisite, and no neces<g ref="char:EOLhyphen"/>sary use of extraordinary, though to be honoured and ad<g ref="char:EOLhyphen"/>mired as at any time appearing.</p>
+            <p>But that we may behold God indeed, (though other<g ref="char:EOLhyphen"/>wise we need not to add a cubit to the stature of Qualifi<g ref="char:EOLhyphen"/>cations) the Lord in his exalting of the present Power over us: hereby he hath revealed his Revelation, or the Pro<g ref="char:EOLhyphen"/>phesie in them is so fulfilled, <hi>That these in their generation are of the Lambs Soldiers, known by their Qualifications,</hi>
+               <note place="margin">Qualifica<g ref="char:EOLhyphen"/>tions pro<g ref="char:EOLhyphen"/>phesied, re<g ref="char:EOLhyphen"/>vealed.</note>
+               <hi>or that they are such as be Called, Chosen, and faithfully united.</hi>
+            </p>
+            <list>
+               <item>1. <hi>That they are Called:</hi> to come out of Antichrist, so as to forsake the traditions of their Fathers: Here's not a monument that justly occasioneth idolatry, that hath almost escaped them, and they also shall build up the Church, as well as pull down the Superstition thereof, (as God shall be merciful unto us) whereby, as in the second Qualifica<g ref="char:EOLhyphen"/>tion, they shall appear more and more to be,</item>
+               <item>2. <hi>Chosen:</hi> As that we cannot say, That His Highness came to be exalted of the Lord by chance or fortune. But as God hath said of his Vineyard,<note place="margin">Isa. 5.2.</note> that planted it with the choisest Vine of all the men of the Nations. Here, as it is said of <hi>David,</hi> The Lord mady his Choice, a choice in which God could not erre or be mistaken, excellent, good, and useful: for here the wisdom and will of God did so concur, That the Lord that knoweth whereof we are made that sees our stiff-neckedness and strivings,<note place="margin">God hath appeared in his Highness exaltation to the Go<g ref="char:EOLhyphen"/>vernment.</note> and unreformedness. Here, to do us good, God hath made his choice; and herein we have nothing to object: for as the Parents of <hi>Rebeccha</hi> said, <hi>The thing proceedeth of the Lord,</hi> and these Victories and private Deliverances, the like the conversion of the people to a Minister,<note place="margin">The Seal of his Highness as Supreme Magistrate.</note> are <hi>The Seal of his Highness as Supreme Magistrate.</hi>
+               </item>
+            </list>
+            <p>Lord, How often have the true Prophets mourned,
+<pb n="16" facs="tcp:46868:12"/>lest the Children, and not the Parents, should not enter into the promised Land, to live to enjoy this Land in peace through the b1essing of God in the promised Refor<g ref="char:EOLhyphen"/>mation.</p>
+            <p>Oh how often hath clouds risen in their Mindes! lest we should wander in the Wilderness, and shall be bitten with the fiery Serpent, or with the wrathful displeasure of <hi>Ephraim</hi> against <hi>Judah,</hi> until that we cry for the bra<g ref="char:EOLhyphen"/>zen Serpent, which now in our security with the wise Greeks, we judge to be foolishness.</p>
+            <p>For however we look at others Qualifications, if we look at home, as it most concerneth us, <hi>Is not our Silver become Dross?</hi>
+               <note place="margin">Isa. 1.22.</note> or, <hi>the pretence to the Gifts of Grace, nothing but natural?</hi> Shall we finde <hi>Nathaniels simplicity?</hi> or, <hi>are not the true prophets for signs and wonders? is there not a core of Corah in us?</hi>
+            </p>
+            <p>But not to digress, or to be kept from the next Quali<g ref="char:EOLhyphen"/>fication, the Joynts and Sinews of Church and State, <hi>viz. Ʋnion,</hi> or <hi>to be faithfully united with the Head in Heaven, and with the Head upon Earth;</hi> the one is invisible, further then as you have seen it in leading you after the Head of his host: I mean, That the Lamb's Soldiers have marched under the Standard of the Lord of Hosts, held up by the most faithful and chosen Worthies, to fight the Bat<g ref="char:EOLhyphen"/>tels of the Lord, according to their Calling for the sub<g ref="char:EOLhyphen"/>duing of Antichrist, or to pluck up the barren Trees, that those that bear Fruit in their places, may be plant<g ref="char:EOLhyphen"/>ed. This is to turn, overturn. Here is God's over<g ref="char:EOLhyphen"/>turning.</p>
+            <p>And now, That we may know in part our Duty to those that God hath herein exalted.</p>
+            <p n="2">2. In the next place, <hi>The Honour that is due to the Supreme Power, that God exalts to rule over us,</hi> is to be considered:</p>
+            <p>
+               <note place="margin">Arrogancy and pusila<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>imity dis<g ref="char:EOLhyphen"/>covered.</note>
+               <hi>Humility,</hi> the low Valley on which all Graces and Vertues may be built upon, is scituated betwixt the two extreams: <hi>Arrogancy,</hi> which assumes more then is ones due; and <hi>Pusilaminity,</hi> a dejection of Spirit, pretending
+<pb n="17" facs="tcp:46868:12"/>great affinity to the Vertue, yet denies the Honour that's due, with special respect unto ones Place and Calling.</p>
+            <p>To give to any man then, the Honour that is due unto him, is to respect him according as his Place either ma<g ref="char:EOLhyphen"/>keth him of a high or low Degree. And herein, though the gainsaying of <hi>Corah,</hi> might teach a Son to disdain his Father; a Servant or Souldier might judge his Master, General or Officer, not deserving; yet while they have their place, it's not in private Spirits to contemn, or mur<g ref="char:EOLhyphen"/>mur to pay the Tribute of Subjection unto them, because in honoring every one in his place, we submit to the Go<g ref="char:EOLhyphen"/>vernment of God's Order, who placed him, and will have every man honored in relation to his place unto which God hath called him.</p>
+            <p>Not then to run into the extreams before spoken of, <hi>Pusilanimity</hi> and <hi>Arrogancy,</hi> whereby we do either not own the Honor that our place doth give us, or do arro<g ref="char:EOLhyphen"/>gate more then is due in our Place and Calling. Here if we will not disobey God in the first Commandment, with Promises in the second Table, <hi>To necessitate our selves to say, No more Honour shall be conferred: is for to covenant a<g ref="char:EOLhyphen"/>gainst Truth and Liberty.</hi>
+            </p>
+            <p>This may prove a snare, because that though at the, first it was just what we did at the time being, yet afterwards it may be as unjust, that the coat of Honor should not be further displayed, as requisite.</p>
+            <p>For <hi>Honour</hi> is the spur to <hi>Vertue,</hi> speaks not more the Praise then tells the Duty to the person it commendeth; as <hi>Hen.</hi> 8. told Sir <hi>T. More, That in commending of him, he taught him his Duty:</hi>
+               <note place="margin">See <hi>Graf<g ref="char:EOLhyphen"/>ton's</hi> Chro<g ref="char:EOLhyphen"/>nicle.</note> so the <hi>Honour</hi> teacheth us to walk worthy of it.</p>
+            <p>It's Natural as well as Religious, to keep that which is precious from deformities and all Violations: so that from an Honorable Person, we have all confidence to expect a sutable deportment.</p>
+            <p>Concerning then, the Titles or Garments of Glory that they may be neither too short nor too long, but
+<pb n="18" facs="tcp:46868:13"/>may have respect to the fitness of the worth, both of Place and Persons. Herein, God and Man have both concurred; for as God is pleased to have his Vicegerent honored for his own Name sake, and therein is a free Agent, so on the contrary, the splendor and candor of Glory, and the puissant acts, successes, and personal worth, with which much of the presence of God is appearing, have con<g ref="char:EOLhyphen"/>strained the World and all Saints to honor the Exalted Servants of the Lord, as the people did <hi>Abraham,</hi> &amp;c. And so the people have often heaped Honour, or wil<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingly submit that such persons should be honored, whom God doth honor; and so, that though the honor of God and that of the people, seem to run into contrary Channels; yet they meet in the main Sea of submission to God's holy Will or Decree: <hi>Give Honour to whom Honour is due:</hi> which God declares as he gives the Place, and the people, as they shall see such a Person so Honourably placed.</p>
+            <p>That any then should herein be found to be contrary minded, must either then know the secret will of God, or answer that which is revealed, which will neither teach nor incourage in the least measure, that we be found despising any man, lest as we may persecute, we may be found to contemn God in his Servants.</p>
+            <p>And that the will of God is so fully revealed, that we may see how dangerous a thing it is to sit in the Chair of the scornful. When <hi>Hagar</hi> was lifted up to despise her Mistress, the Angel gave her not the least incourage<g ref="char:EOLhyphen"/>ment, (though her Mistress had somewhat hardly intreat<g ref="char:EOLhyphen"/>ed her) but bade her <hi>go back again, and submit her self to her mistress Sarah.</hi> For, as Inferiours contemn their Su<g ref="char:EOLhyphen"/>periours, or such as God hath placed Above them: this is no less, then to cause the Name of God to be blas<g ref="char:EOLhyphen"/>phemed.</p>
+            <p>And that none may think to escape that are here found to be presumptuously offending, those little Children that did so scornfully reproach the Prophet, the hand of God appeared against them, <hi>so that their childishness made
+<pb n="19" facs="tcp:46868:13"/>them not innocent: for that two bears came out of the wood, and destroyed them.</hi>
+            </p>
+            <p>
+               <hi>Blessed is the man that hath not walked in the counsel of the ungodly, nor stood in the way of sinners, nor sate in the seat of the scornful.</hi>
+            </p>
+            <p>And now to speak a word of the Name or Title of King, that hath been given to the Supreme Magistrate:<note place="margin">Of the Name or Title of King.</note> for herein the counsel of God's will is to be revealed, which is the Prophets peculiar duty.</p>
+            <p>The words in the Original, are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by which to rule, and that the Supreme is the foundation of the people; or, as the Parliament in their late Decla<g ref="char:EOLhyphen"/>ration say, <hi>His Highness is the Fountain of Justice:</hi> is thereby signified.</p>
+            <p>That any should be now so named, is not an offence to, nor may justly offend the godly:</p>
+            <p>First, It cannot offend God, because he makes the Title or Name of King, the ground of his Attribute, <hi>King of Kings.</hi> And if no King should be as nursing Fa<g ref="char:EOLhyphen"/>thers to his Church, then the Truths and Prophesies of Scriptures should fail, which were to overthrow the Faith of Believers.</p>
+            <p>And that this cannot justly give offence, except this Commonwealth were not so glorious, or were not so wealthy, or might not maintain the Title, which in both respects is so transcendent that it is both Honorable and Terrible to Forraign Powers.</p>
+            <p>And therefore, if it's Pusillanimity not to own the Right of a man's place, we may as well give the Title, as yield that subjection, which a King can require under ano<g ref="char:EOLhyphen"/>ther Title.</p>
+            <p>But some do say,<note place="margin">Objections against the Title of King an<g ref="char:EOLhyphen"/>swered.</note>
+               <hi>We have taken an Ingagement to the contrary.</hi>
+            </p>
+            <p>To which it's answered, In the Ingagement we owned the Priviledge of Parliament, by which the Title was taken away, and may again by them be restored: whereby it appears, That we were no longer bound up herein, then
+<pb n="20" facs="tcp:46868:14"/>we are to any Law of the Nation; otherwise, our Laws, like the Laws of the <hi>Medes</hi> and <hi>Persians</hi> should be unal<g ref="char:EOLhyphen"/>terable. The Ingagement then, was onely in force, as it is not in the will and power of private persons to make alterable: but as bound up to conformity to the same, till Authority see cause to the contrary.</p>
+            <p>2 <hi>Obj.</hi> But some say, <hi>They have fought against the King, and therefore cannot acknowledge it.</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> What thou didst was not of thy self, but as a King was separated from a Parliament, whereby not the Name, but the Tyranny (I suppose) was opposed by their power, not thy own: for we may know, That from pri<g ref="char:EOLhyphen"/>vate capacity, no man hath any power from God or man, though he should be compelled to bow to an Idol, yet he ought not to make any resistance: for as private persons, if we cannot do what is commanded, we must suffer as Mar<g ref="char:EOLhyphen"/>tyrs, but not take up arms to resist our Superiors.</p>
+            <p>And if herein we be not tender in our consciences, but presume to resist as we finde our selves strengthened, then may Children and Servants, as justly rebel against the Masters, and Fathers in Families, and there rule over them.</p>
+            <p>Then if without Authority we may fight, as any dis<g ref="char:EOLhyphen"/>content may trouble us, then have we neither Law, Life nor Liberty, free; nor know we any ground or foundati<g ref="char:EOLhyphen"/>on of Security.</p>
+            <p>That there is not so great a matter or ground for con<g ref="char:EOLhyphen"/>tention, as by too many is imagined: in the assuming of the Title, if by the Authority of the Nation it shall be acknowledged.</p>
+            <p>And that to honor the Exalted Servants of the Lord, is not the least of all God's Commandments. But that God may therefore still the tumult of the people,<note place="margin">Psal. 65.7.</note> and that we may be as tender to keeep a pure conscience, to ho<g ref="char:EOLhyphen"/>nor our Superiors, as we would have our Inferiors to ho<g ref="char:EOLhyphen"/>nor u<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, is that only which is hereby aimed at, and should by us all be considered, lest it may be said, We have eyes, and see not.</p>
+            <pb n="21" facs="tcp:46868:14"/>
+            <p> For if there be a man in the World that ought to be honoured it is the Conqueror, that is exalted by God to rule, and reform his people, and fight against Anti<g ref="char:EOLhyphen"/>christ.</p>
+            <p>And yet, that we may not stumble at the way of God, that we may not herein be wilfully blinded through heart deceitfulness, I do humbly in the Name of God, return this short Answer to the late printed Objections against the Name and Power of King, which we only own as by the Authority of the Nation it may be established.</p>
+            <div type="objections">
+               <head>Objections against the Title and Power of King further answered.</head>
+               <p>I Object. <hi>IT was</hi> Israel's <hi>sin to chuse a King.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> If God, as Lord of Hosts had first exalted him, they had not finned, if they had, as we may upon that account, desire to be God-like in our Supreme Exaltation, as if His Highness should have the Attribute of King given him by the Parliament.</p>
+               <p>2 Object. <hi>The Office of Kingship is diametrically opposite to the peoples Liberty and Propriety.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Even as the Gospel is opposite to the World, which as it submits thereunto, is called and saved, enjoys its Liberty and Propriety.</p>
+               <p>3 Object. <hi>The people were free under their good</hi> Moses, Joshua, <hi>and</hi> Samuel.</p>
+               <p n="1">1 <hi>Answ.</hi> So may we be under His Highness Govern<g ref="char:EOLhyphen"/>ment, yet with the Opposers of <hi>Moses</hi> God was severe in executing judgements.</p>
+               <p n="2">
+                  <pb n="22" facs="tcp:46868:15"/> 2. <hi>Answ.</hi> Though God doth not immediately raise up for us Rulers, according to the example of <hi>Moses,</hi> &amp;c. yet according to the example of <hi>David,</hi> in whom the Promises of Mercy are made unto us, our Supreme by God is exalted.</p>
+               <p n="4">4 Object. <hi>Kingship is as one of the ten horns of the Beast, that is mentioned in the</hi> Revelation.</p>
+               <p>
+                  <hi>Answ.</hi> So is the Devil a God and Prince, yet this doth not make the Atributes of God to be God and Prince to be devillish, or proves, That Kings there<g ref="char:EOLhyphen"/>fore shall not destroy Antichrist, as is prophesied. But me thinks none should be ignorant, That Kingship is God's Ordinance, a foundation for his Atribute, <hi>King of Kings:</hi> and that which he hath promised to restore unto the Nation, even, that as he hath said, <hi>That kings shall rule in righteousness.</hi>
+               </p>
+               <p>Take heed then, and beware of Prejudice, Ignorance, and a Root of Bitterness: Kings are God's Ordinance, and to resist is to receive our own condemnation.</p>
+            </div>
+         </div>
+         <div n="3" type="part">
+            <pb n="23" facs="tcp:46868:15"/>
+            <head>The Third Remonstrance, <hi>Concerning Gods deliverance of His Highness from the late cursed Plot that was devised against Him,</hi> &amp;c.</head>
+            <argument>
+               <p>If we desire to walk through the streets of New Jerusalem, to see the leadings of the Spirit, witnessed in the lives of all the Saints that believe and obey as from the beginning. And now to look after the succession of Grace amongst us: if we will wash our Hands in Innocency, then must we with them needs cry out against the late most Horrible and Abhominable Plot, which is not to be owned with Turks and Infidels.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>O experience then the Influence of the Spirit of Praising in its due season, and further to be awakened, whereby God was so pleased as to make my Tongue the Pen of a ready Writer, that the Record of God's special Mercy might not vanish away with the day of its remembrance. Herein it's my joy to be found faithful. Not therefore consulting with flesh or blood, or hearkning to carnal wisdom, by which I might be remembred what Plots and special malice of Satan hath ever attended me. But not<g ref="char:EOLhyphen"/>withstanding, that the Lord hath so much bruised him, that at all such times the Spirit of Glory and of God, hath hi<g ref="char:EOLhyphen"/>therto
+<pb n="24" facs="tcp:46868:16"/>most appeared, when most plotted against and per<g ref="char:EOLhyphen"/>secuted: As not therefore disobedient to the heavenly Revelation, be it known unto all people, That in re<g ref="char:EOLhyphen"/>gard Satan hath been chained up, as that the Lord would not suffer the most cursed Plot to be effected,<note place="margin">
+                  <hi>Jacobs</hi> star <hi>Numb. 24.17.</hi> or the prophet re<g ref="char:EOLhyphen"/>vealing.</note> that there<g ref="char:EOLhyphen"/>fore the Lord doth hereby cleerly make the <hi>Star</hi> of <hi>Jacob</hi> to shine, or that the finger of God points out unto us: This his special approbation, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>That his Highness the Lord Protector, is raised up by the right hand of God to rule in Church and State, and to turn his hand against Antichrist, and therein to prosper in the promoting of Reformation, whereby Holiness, impartial Justice &amp; Honesty, as the cause and standard of God way be exalted amongst us.</hi>
+            </p>
+            <p>For we must not imagine, That his Highness, whom God hath so exalted and qualified, and hath hitherto counselled him to improve the Lord's cause, was in the capacity of a private man, either struck at, or by God de<g ref="char:EOLhyphen"/>livered.</p>
+            <p>But to bear Testimony in all mens consciences, As his Highness stands in the way of Antichrist, as God was his Battel-Axe (as the Prophet saith) to beat down his ene<g ref="char:EOLhyphen"/>mies.</p>
+            <p>As he is most gloriously owned of God to set up his standard against the heart of Popery &amp; head of <hi>Mahomet.</hi> As his Highness is sufficiently known to abound in Wis<g ref="char:EOLhyphen"/>dom, Zeal and Fortitude, and whom God's merciful presence hath most gloriously attended, and to see the fruit thereof in peaceable Government. Hence they gnash the teeth, upon this account, and no otherwise, they plotted against the Lord's Vicegerent: for which cause the Lord of Hosts, became a present help in time of need, stood up and defended him as God hath before appeared in pro<g ref="char:EOLhyphen"/>tecting those that have according to their light appeared against Antichrist, for which cause, Q. <hi>Elizabeth</hi> was very often delivered from private (as the Parliament from the Powder-Treason) or Popish) conspiracies.<note place="margin">Psal. 106.15, 16.</note> They envied <hi>Moses</hi> in the Camp, and <hi>Aaron</hi> the Saint of the Lord. The earth opened &amp; swallowed up <hi>Dathan,</hi> and coverered the
+<pb n="25" facs="tcp:46868:16"/>company of <hi>Abiram,</hi> and the Lord also smote <hi>Miriam,</hi> the Prophetess for her peevish opposing.</p>
+            <p>That this deliverance then was of God as heretofore, where is that closed eye that will now see nothing?<note place="margin">
+                  <hi>Digitus Dei</hi> in his Highnesse deliverance.</note> would it not have been quick-sight or wide open? if the Viper had so fastened on his Highness hand, as that the Plot had been effectual; but now, that God in mercy hath pre<g ref="char:EOLhyphen"/>vented it, how shall they exceed the Heathens, if now (when they see it shaken into the fire) they shall not change their mindes, though not to say he is a God, (as Magistrates are in some respect called) yet ought they, as all Christians ought at least to confess, that God is with his Highness the Lord Protector.</p>
+            <p>But if it may be possible, that they cannot see through the hardness of their heart or spiritual blindness; it they be not opiated in their Reason, may not the flash of fire, which tormented <hi>Spira,</hi> as a lightning from Heaven: let them see the light of an enemies conscience, that could not rest but in the betraying of the Plot of his confederated Conspi<g ref="char:EOLhyphen"/>rators.</p>
+            <p>It is not of man then, nor can it be of Satan, to tender the heart, or make a dead conscience to be made quickned, a thousand witnesses the great Eye and Judge of the Soul, that by which gracious means his Highness being pre<g ref="char:EOLhyphen"/>served of God in his Place and Government, doth witness the faithfulness of God, in the promised sure mercies of <hi>David.</hi>
+            </p>
+            <p>For, as all deliverances are by the power of God, so have they ever been ascribed to God the Deliverer, as in the joyful sound, <hi>Let God arise, let his enemies be scaterred, let them also that hate him flee before him, as smoak is driven way; as wax melteth before the fire, so let the wicked perish at the presence of God. But let the righteous be glad, let them re<g ref="char:EOLhyphen"/>joyce before God, let them exceedingly rejoyce: Sing unto God, sing praises unto his Name, extol him that rideth upon the hea<g ref="char:EOLhyphen"/>ven by his name Jah, and rejoyce before him. A Father of the fatherless, and Judge of the widow, even God in his holy habi<g ref="char:EOLhyphen"/>tation: blessed be the Lord that hath not made us a prey unto their teeth, our help is in the Name of the Lord.</hi>
+            </p>
+            <pb n="26" facs="tcp:46868:17"/>
+            <p> But who are so blind as they that will not see the hand of God in the exalting &amp; delivering his Servant? and who shall be, except upon that account, wilfully disobedient? in that every Soul in his relation, spiritual or temporal, is not obscurely spoken unto, to yield obedience: but above all; all we are so required:</p>
+            <list>
+               <item>1. <hi>As we have any affection or regard to God, we must obey for the Lords sake.</hi>
+               </item>
+               <item>2. <hi>As we respect the minde of God, his decree or truth. This is the will of God.</hi>
+               </item>
+               <item>3. <hi>There is an approbation given to obeying. This is well-doing.</hi>
+               </item>
+               <item>4. <hi>The benefits which we shall obtain: if we shall not be here<g ref="char:EOLhyphen"/>in wanting, are these: We shall put to silence the igno<g ref="char:EOLhyphen"/>ance of foolish men, we our selves shall discharge a good conscience; and lastly, we shall live godlily and peaceably.</hi>
+               </item>
+            </list>
+            <p>This is the language by which the Spirit speaks unto thee; How doth the yearning of bowels, (though before shut up) hereby, provoke us to obey in that for the Lord's sake we are so required: is there any thing we shall not do for the Lord's sake our King and Heavenly Father? is there any thing too dear to bestow, or any love or service, which we shall not rejoyce to perform? if we shall not take pleasure in reproaches, necessities, persecutions for the Lord's sake, yea, if Gods love shall not constrain us to lay down out lives for his sake, we are bastards, &amp; no sons; quite degene<g ref="char:EOLhyphen"/>rated from the succession of Christian Brethren: if we shall not therefore submit to his Vicegerent. For as we have heard, <hi>This is the will of God, this is a divine truth: All powers that are, are ordained of God:</hi> unto which the souls of all self-denying Saints most joyfully make answer, <hi>Not our wills, but thy will be done: it is our meat and drink to do the will of our heavenly Father:</hi> unto which, to submit from the heart, hath such an approbation, (though in all that we do we are un<g ref="char:EOLhyphen"/>profitable servants.) <hi>To be subject to Higher Powers,</hi> hath the encomium or praise of well-doing, unto which the eyes of of God, and all good men look, and the best of all sorts of men are engaged.</p>
+            <p>In which, if we neglect or violate our duty, hereby the
+<pb n="27" facs="tcp:46868:17"/>mouths of all ungodly men, which would otherwise be stopped, will be opened against us: for so is the will of God, <hi>that by well-doing ye shall put to silence the ignorance of foolish men, or the earth shall dry up the troubled sea, we shall enjoy our peace, the dogs of the worlds shall not bark against us, for us lives shall be peaceable and godly.</hi> Therefore as you see nothing shall be objected against us if we obey, but e<g ref="char:EOLhyphen"/>very one shall object against wilful disobedience, which is not only against the light of Nature, but also against the light of Grace, because all men both natural and rege<g ref="char:EOLhyphen"/>nerate, are called to give up themselves unto the Lord, and be faithfully subjected, and that not for fear only, but for conscience sake.</p>
+            <p>O the cursed delusion by which men are led into Plots and Conspiracies, the sin of witchcraft! For though some people that will needs be judging in their own cause, male-content, precipitated, impatient Spirit, that will make nothing to oppose the Power that is set over them, and herein would be judging, or rather turn judgement into wormwood, as though they were the Potter and God the Clay, whereby they would be moulding and ordering at their will and pleasure, yet that they are more busie, then they have any call for. God, by whom it is said, <hi>By me kings reign,</hi> is herein so much offended, that if God should set up an heathen to rule with a rod of iron, yet would he most severely punish those that should rise up a<g ref="char:EOLhyphen"/>gainst him, as being the great contempt of his will and pleasure.</p>
+            <p>For though it is true that God hath plagued all kind of sin, yet so much of the disorder and pride of the Angels that he cast down into hell, <hi>&amp;c.</hi> there is in resisting the power God sets over them: therefore, for this sin his pe<g ref="char:EOLhyphen"/>culiar people were so severely punished, that all of them as the Prophet <hi>Jeremiah</hi> perswaded them, <hi>that would not be subject to the King of Babylon, were cut off by the sword, and most miserably captivated, though those that hearkned to the Prophet, prospered in the enjoyment of the liberty of conscience, peace and happiness.</hi> Which hints out thus much unto us
+<pb n="28" facs="tcp:46868:18"/>for our information, <hi>That the planting and plucking up of a Nation is revealed unto the Prophets, and that as men are re<g ref="char:EOLhyphen"/>served for mercy, they are counselled, or otherwise go up to Beth<g ref="char:EOLhyphen"/>lem-Gaber, or are cast upon the precipices of selfish confederacy. Therefore murmur not against</hi> Moses <hi>and</hi> Aaron, <hi>nor fight we not against God when we are conquered, nor presume to assume to our selves to be Lord of Lords and King of Kings, which is Gods own attribute:</hi> but as in the second <hi>Psalm</hi> we are fully informed,<note place="margin">Psalm <hi>2</hi> applied.</note>
+               <hi>It's all mens duty, that we must be patient and not meddle or busie our minds any more, or plot against, or study to oppose the power that God hath set over us: for though the people rage, and the heathen imagine concerning the subverting of this Government as they please; yea, though the Kings of the earth set themselves with their united Forces, as they did in some measure oppose</hi> Jeremy, Luther, <hi>and besieged</hi> Genevah; <hi>yea, though lhey shall take counsel, confederate to break their bands asunder, to free themselves from the yoke of obedience, or would strive to subdue the people of God, with whom he is gra<g ref="char:EOLhyphen"/>ciously present; yet that this is to take counsel without him that is called Counsellor, which proves labor in vain, even to weave the spiders web, which makes him that sitteth in heaven to laugh them to scorn, that would hinder, as it were the Sun from shin<g ref="char:EOLhyphen"/>ing: a foolish and vain action, which as a venial sin it may not be slighted by them, or to shew that God is hereby most highly offended without any longer forbearing of them, then in the ve<g ref="char:EOLhyphen"/>ry act, or presently when they intended it, shall he as he did to</hi> Judas, <hi>speak unto them in his wrath, and vex them in his sore displeasure: so that for all that they set themselves by all their plots and strength against that power that God hath set over them, yet to show how God will disappoint them, or drive on a contrary design. I will,</hi> saith God, <hi>whither you will or no, set my Christ, &amp; all that are set up under him upon my holy hill of Sion.</hi>
+            </p>
+            <p>Certainly then, they know not what spirit they are of, or how they are most miserably deluded, that will needs drink the poyson, that they are thus by all the ways both of mercy and judgment forewarned of that run in the gainsaying of <hi>Corah,</hi> and confederate with <hi>Bigan</hi> and <hi>Te<g ref="char:EOLhyphen"/>resh</hi> to their most certain destruction.</p>
+            <div type="application">
+               <pb n="29" facs="tcp:46868:18"/>
+               <head>GENERAL APPLICATION.</head>
+               <p>But certainly this is not all; that use that we must make of the deliverance to eschew the evil of Plots and con<g ref="char:EOLhyphen"/>spiracies, and do the good to honor the Power that God exalts over us. For if the faithful Prophets speak home indeed, and shall be received, the Sun-light of <hi>Nathaniels</hi> simplicity, shall be discovered that shines in a multitude, the cloud; and yet is not overclouded with them.</p>
+               <p>For surely, this is but Gods waiting time, not the ful<g ref="char:EOLhyphen"/>ness of his more expected presence with us: for who is so blinde that cannot see, that there are more that cast stones in the way, then to make a High way for our God among us. But surely this hellish Plot cannot but allarm us to all take up the arms of our profession, &amp; make good our true faith in the witnessing thereof, by the fruit of peace and holiness, and to be as stout as severe <hi>Cato</hi> was, that fought against the sins of the City. That the mysti<g ref="char:EOLhyphen"/>cal Pillars of the Church and State, the most faithful Pro<g ref="char:EOLhyphen"/>phets, mourners, poor and innocent, may not as in back<g ref="char:EOLhyphen"/>sliding times be for signs and wonders, that stand in the gap, seeing they are marked of God by his special appro<g ref="char:EOLhyphen"/>bation. And may not this deliverance most especially cry aloud in the ears of the disaffected, <hi>Saul, Saul, why per<g ref="char:EOLhyphen"/>secutest thou me in my Saints?</hi> it's also too hard for you, ye sons of <hi>Serviah, to kick against the pricks,</hi> the great unseen opposition and judgement which will befal you, your own sword shall slay you.</p>
+               <p>It's too hard for you, though you have none to oppose, seeing the Lord will be just and terrible against you, God will divide your Tongues, God will confound you, you shall fall into the pit that you have digged for others, your weapons that you have formed shall not prosper.</p>
+               <p>Oh the signal mercy of God! what less was this his most wonderful deliverance, then that miracle by which the Prophet <hi>El<gap reason="illegible: missing" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ah</hi> (as he prayed) was made known to the peo<g ref="char:EOLhyphen"/>ple to be God's servant, whereby they, deserted <hi>Baals</hi>
+                  <pb n="30" facs="tcp:46868:19"/>Priests, or is not the covering of his Highness head a more certain sign of God's special favor, then the descending of a Dove upon the head of <hi>Fabius</hi> ingaged those that were concerned to make of him their election, as it's related in <hi>Eusebius,</hi> though we cannot build an Altar of memo<g ref="char:EOLhyphen"/>rial, or do not set up stones with <hi>Jacob, Samuel,</hi> and <hi>Jo<g ref="char:EOLhyphen"/>shua</hi> in remembrance that God appeared hitherto, hath helped us, and as thereby to avouch the people unto the God of their deliverance, yet how shall not the pro<g ref="char:EOLhyphen"/>phesie be fulfilled in us: praises wait for God in <hi>Sion.</hi> I will give the Church vineyards as in the day of hope, and she shall sing there as in the days of her youth, when she came out of the Land of <hi>Egypt.</hi> Oh the <hi>Egypt</hi>-slavery that we are delivered from: How! shall we not break forth into singing?</p>
+            </div>
+            <div type="hymn">
+               <head>The influence of the Spirit of praising, by way of a Hymn, as we have attained.</head>
+               <lg>
+                  <l>NO Magistrate nor great Prophet,</l>
+                  <l>That stands in Satans way,</l>
+                  <l>But envy doth them much oppose,</l>
+                  <l>Which doth the envious slay.</l>
+               </lg>
+               <lg>
+                  <l>It was the Lord in open field,</l>
+                  <l>That his Saints head did cover,</l>
+                  <l>And secret Plots that none espie,</l>
+                  <l>The Lord makes men discover.</l>
+               </lg>
+               <lg>
+                  <l>The troubled Sea, the Earth dried up,</l>
+                  <l>God did prevent their flame,</l>
+                  <l>Whereby he brake the gates of hell,</l>
+                  <l>For to promote his Name.</l>
+               </lg>
+               <lg>
+                  <l>This God hath done for this great Isle,</l>
+                  <l>To witness his protection.</l>
+                  <l>Thus God his Servant did exalt,</l>
+                  <l>To lead on his Election.</l>
+               </lg>
+               <lg>
+                  <pb n="31" facs="tcp:46868:19"/>
+                  <l>Shall <hi>Ephraim</hi> then envy <hi>Judah?</hi>
+                  </l>
+                  <l>Or Schism make in union?</l>
+                  <l>Or shall the World prevail that would</l>
+                  <l>Break Saints Communion.</l>
+               </lg>
+               <lg>
+                  <l>God doth delight that all should see,</l>
+                  <l>From light of Conscience,</l>
+                  <l>From what great dangers he can free,</l>
+                  <l>His Saints through his Presence.</l>
+               </lg>
+               <lg>
+                  <l>Satan is bruised, Saints triumph</l>
+                  <l>The day with you doth rise,</l>
+                  <l>In white robes of Sincerity</l>
+                  <l>Offer your Sacrifice.</l>
+               </lg>
+               <lg>
+                  <l>The Sacrifice the Lord would have</l>
+                  <l>Is nothing but his own,</l>
+                  <l>Serve him by heart, by tongue, by all</l>
+                  <l>That his Name may be known.</l>
+               </lg>
+               <lg>
+                  <l>Saints to the Lord, sing praise, sing praise,</l>
+                  <l>Blest Angels with you stand,</l>
+                  <l>God is your God, commit your selves,</l>
+                  <l>Into the Lord's own Hand.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>The means (as blessed by God) to retain the presence of God among us.</head>
+               <p>And here lest prejudice shall put a mote in our Eye, and yet to take it out shall want charity, that found Doctrine is not hereby corrupted: the least tincture or hint that might tend to <hi>opus Operatum,</hi> or <hi>meritum ex congruo, &amp; con<g ref="char:EOLhyphen"/>digno,</hi> whereby Popish merits are distinguished, cannot be here apprehended. But as the Kingdom of Heaven is gotten by violence, as we are to strengthen the things that are ready to fall, as we are to imitate the Saints of God, whereby to expect as formerly, God being yester<g ref="char:EOLhyphen"/>day as to day, the same God in mercy to his people, as they wait upon him.</p>
+               <pb n="32" facs="tcp:46868:20"/>
+               <p> This then is all which I shall only upon this occasion briefly mention: It being now, as I hope, laid to heart or duely considered by all that are truly godly, that is to say,<note place="margin">Means whereby God's pre<g ref="char:EOLhyphen"/>sence is re<g ref="char:EOLhyphen"/>tained a<g ref="char:EOLhyphen"/>mong us.</note> That wheresoever God had his most special bles<g ref="char:EOLhyphen"/>sed presence, all these (not being types of Christ are not to be abrogated) were zealously observed of Gods People.</p>
+               <p>God had a wine-press, or his Church was govern<g ref="char:EOLhyphen"/>ed, the Sabbath was carefully and zealously observed, as a declared means to prevent God's judgements. The Scripture, anciently called the Tower of <hi>David,</hi> was preached and expounded, and when his people did with<g ref="char:EOLhyphen"/>draw their ear, God with-drew his presence from them, <hi>Psal.</hi> 81.</p>
+               <p>The Magistrates Court as now was as an Asylum for the oppressed to appeal unto, as <hi>Paul</hi> did unto <hi>Caesar:</hi> As God set up his Standard, he pulled down Heathenish Al<g ref="char:EOLhyphen"/>tars and Idols, and caused the names of Heathenish Gods not to be mentioned: National-Fasts, were solemnly ob<g ref="char:EOLhyphen"/>served. However, all Saints observed private fasting, and were marked for mourners: fasting, being a special means to seek our Reconciliation, as the only Physick whereby the inward man recovers strength and peace, and stands in the gap to divert God's judgements. All the Saints were ever very zealous for Meditation, and Contemplation, and Devotion, and the Spirit of Praising; and were ever confiding men, especially as most cleerly apprehending, to pray for, &amp; to be subject unto Magistrates for the Lord's sake. And therefore God hath most anciently had his Pre<g ref="char:EOLhyphen"/>sence with us as in these steps we have found the Spirit of Truth more or less leading of the Saints as from the beginning: And it shall be our mercy in this way to ex<g ref="char:EOLhyphen"/>pect a blessing, seeing when knowledge shall cover the earth (the most glorious appearance of Gods presence) we shall be but more informed to make up this high-way for the Lord as is prophesied.</p>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
